@@ -37,11 +37,11 @@ The system exports prescription and billing records directly to `Treatment-and-P
 
 ### treatment paper going to look like 
 """
-<<  Treatment and Prescription  >>
-Patient ID : 987654
-Name       : Khaldoon
-Time: 07:18PM in 2026-09-06
-description: 
-    Patient reported minor joint pain.
-Fee: 50.0$
+      <<  Treatment and Prescription  >>
+      Patient ID : 987654
+      Name       : Khaldoon
+      Time: 07:18PM in 2026-09-06
+      description: 
+          Patient reported minor joint pain.
+      Fee: 50.0$
 """
