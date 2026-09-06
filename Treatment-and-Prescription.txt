@@ -1,0 +1,7 @@
+<<  Treatment and Prescription  >>
+Patient ID : 987654
+Name       : khaldoon
+Time: 03:14PM in 2026-09-06
+description: 
+    ddd
+Fee: 45.0$
