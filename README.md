@@ -12,15 +12,15 @@ A lightweight Python application demonstrating core Object-Oriented Programming 
 ---
 
 ## Architecture & OOP Design
-      +-----------------------+
-      |  Person (Abstract)    |
-      +-----------------------+
-                 |
-   +-------------+-------------+
-   |                           |
-+--------------+         +---------------+
-|    Doctor    |         |    Patient    |
-+--------------+         +---------------+
+ +-----------------------+
+ |  Person (Abstract)    |
+ +-----------------------+
+               |
+   +-----------+-------------+
+   |                         |
++--------------+       +---------------+
+|    Doctor    |       |    Patient    |
++--------------+       +---------------+
 The project uses a clean class hierarchy to model real-world hospital interactions:
 
 ## File Handling & Exception Safety
