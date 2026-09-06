@@ -34,9 +34,9 @@ The system exports prescription and billing records directly to `Treatment-and-P
 - **Data Validation (`try/except (ValueError, TypeError)`)**: Converts and verifies fee inputs to prevent negative or non-numeric values.
 - **I/O Safeguards (`try/except Exception`)**: Wraps file operations to handle path errors, missing directories, or permission issues cleanly.
 
-
+**Generated File (`Treatment-and-Prescription.txt`):**
 ### treatment paper going to look like 
-"""
+
       <<  Treatment and Prescription  >>
       Patient ID : 987654
       Name       : Khaldoon
@@ -44,4 +44,3 @@ The system exports prescription and billing records directly to `Treatment-and-P
       description: 
           Patient reported minor joint pain.
       Fee: 50.0$
-"""
